@@ -1,0 +1,12 @@
+{
+  "name": "project-k6-basic",
+  "version": "1.0.0",
+  "description": "this is my first project using k6",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:k6": "k6 run tests/my-test.js"
+  },
+  "author": "Belmiro00s",
+  "license": "ISC"
+}
